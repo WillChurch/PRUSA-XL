@@ -698,7 +698,7 @@
   #endif
 
   #define TEMP_0_PIN         13   // ANALOG NUMBERING
-  #define TEMP_1_PIN         15   // ANALOG NUMBERING
+  #define TEMP_1_PIN         14   // ANALOG NUMBERING
   #if MOTHERBOARD == 68
     #define TEMP_2_PIN         12   // ANALOG NUMBERING
     #define TEMP_3_PIN         11   // ANALOG NUMBERING
